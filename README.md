@@ -1,1 +1,1 @@
-# Stock-API-Grapther
+# Stock-API-Grapher
